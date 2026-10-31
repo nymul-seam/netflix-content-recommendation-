@@ -2,7 +2,7 @@
 
 What should each subscriber watch next? This project finds which titles share an audience, using 2,000 subscribers' viewing time, and turns those links into an interactive "watch next" recommender.
 
-**🔗 Live project: https://nymul-seam.github.io/netflix-content-recommendation/**
+**🔗 Live project: https://nymul-seam.github.io/netflix-content-recommendation-/**
 
 - [Title correlation matrix](https://nymul-seam.github.io/netflix-content-recommendation/correlation-matrix.html)
 - [Watch next recommender](https://nymul-seam.github.io/netflix-content-recommendation/recommender.html)
